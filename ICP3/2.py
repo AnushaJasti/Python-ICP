@@ -13,4 +13,3 @@ def examp():
         print(i.get('href'))
 
 examp()
-
